@@ -14,6 +14,10 @@
 </p>
 
 
+[![committers.top badge](https://user-badge.committers.top/sri_lanka/kavitharangani.svg)](https://user-badge.committers.top/sri_lanka/kavitharangani)
+[![committers.top badge](https://user-badge.committers.top/sri_lanka_public/kavitharangani.svg)](https://user-badge.committers.top/sri_lanka_public/kavitharangani)
+[![committers.top badge](https://user-badge.committers.top/sri_lanka_private/kavitharangani.svg)](https://user-badge.committers.top/sri_lanka_private/kavitharangani)
+
 
 <h1 align="center">Hi 👋, I'm Kavindya Tharangani</h1>
 <h3 align="center">A software engineer from IJSE... 🎯🎯🎯</h3>
