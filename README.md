@@ -16,7 +16,7 @@
 
 [![committers.top badge](https://user-badge.committers.top/sri_lanka/kavitharangani.svg)](https://user-badge.committers.top/sri_lanka/kavitharangani)
 [![committers.top badge](https://user-badge.committers.top/sri_lanka_public/kavitharangani.svg)](https://user-badge.committers.top/sri_lanka_public/kavitharangani)
-[![committers.top badge](https://user-badge.committers.top/sri_lanka_private/kavitharangani.svg)](https://user-badge.committers.top/sri_lanka_private/kavitharangani)
+[![committers.top badge](https://user-badge.committers.top/sri_lanka_private/kavitharangani.svg)](https://userbadge.committers.top/sri_lanka_private/kavitharangani)
 
 
 <h1 align="center">Hi 👋, I'm Kavindya Tharangani</h1>
