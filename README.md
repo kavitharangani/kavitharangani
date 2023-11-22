@@ -5,7 +5,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Computer Networking...<br>👯 I’m looking to collaborate on Software Engineering...<br>🤝 I’m looking for help with developing...<br>🌱 I’m currently learning Advanced API Development & Computer Networking for Software Engineers...<br>⚡ Fun fact - I am lazy but smart...
 
-<img  align ="right" alt="Coding" width="400" height="500" src ="https://i.pinimg.com/originals/0c/34/27/0c34272909ee2a4db5606a014082312b.gif">
+<img  align ="right" alt="Coding" width="400"  src ="https://i.pinimg.com/originals/0c/34/27/0c34272909ee2a4db5606a014082312b.gif">
 
 
 - 🔭 I’m currently working on [POS System Using JS and Java](https://github.com/kavitharangani/Assignment_11-main.git)
