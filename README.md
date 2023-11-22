@@ -27,7 +27,7 @@
 
 
 🔭 I’m currently working on Computer Networking...<br><br>👯
-<img  align ="right" alt="Coding" width="400"  src ="https://i.pinimg.com/originals/0c/34/27/0c34272909ee2a4db5606a014082312b.gif">
+<img  align ="right" alt="Coding" width="400"  src ="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 I’m looking to collaborate on Software Engineering...<br><br>🤝 I’m looking for help with developing...<br><br>🌱 I’m currently learning Advanced API Development & Computer Networking for Software Engineers...<br><br>⚡ Fun fact - I am Funny Girl...
 
 <br><br>
