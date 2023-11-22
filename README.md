@@ -60,6 +60,16 @@ I’m looking to collaborate on Software Engineering...<br><br>🤝 I’m lookin
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kavitharangani&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
+## ⭐️ GitHub Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kavitharangani&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kavitharangani&theme=2077)<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kavitharangani&theme=2077)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kavitharangani&theme=redical&hide_border=true)](https://github.com/kavitharangani)
+<img src="https://github.com/kavitharangani/kavitharangani/blob/main/Github/break_line.gif" alt="break line">
+
+
+
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
