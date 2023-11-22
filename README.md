@@ -3,26 +3,9 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Computer Networking...<br>👯 I’m looking to collaborate on Software Engineering...<br>🤝 I’m looking for help with developing...<br>🌱 I’m currently learning Advanced API Development & Computer Networking for Software Engineers...<br>⚡ Fun fact - I am lazy but smart...
+🔭 I’m currently working on Computer Networking...<br>👯 I’m looking to collaborate on Software Engineering...<br>🤝 I’m looking for help with developing...<br>🌱 I’m currently learning Advanced API Development & Computer Networking for Software Engineers...<br>⚡ Fun fact - I am Funny Girl...
 
 <img  align ="right" alt="Coding" width="400"  src ="https://i.pinimg.com/originals/0c/34/27/0c34272909ee2a4db5606a014082312b.gif">
-
-
-- 🔭 I’m currently working on [POS System Using JS and Java](https://github.com/kavitharangani/Assignment_11-main.git)
-
-- 🌱 I’m currently learning **Framework(AAD) and Networking**
-
-- 👯 I’m looking to collaborate on [POS System Using JS and Java](https://github.com/kavitharangani/Assignment_11-main.git)
-
-- 🤝 I’m looking for help with [POS System Using JS and Java](https://github.com/kavitharangani/Assignment_11-main.git)
-
-- 👨‍💻 All of my projects are available at [https://github.com/kavitharangani?tab=repositories](https://github.com/kavitharangani?tab=repositories)
-
-- 💬 Ask me about **send mail**
-
-- 📫 How to reach me **tharanganikavi08@gmail.com**
-
-- ⚡ Fun fact **I think I am funny girl**
 
 
 ## 🌐 Socials:
