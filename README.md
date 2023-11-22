@@ -1,5 +1,18 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&random=false&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Kavindya+Tharangani;IJSE-+Institute+of+Software+Engineering)](https://git.io/typing-svg)
-<h3 align="center"><i>A Professional FullStack Developer From Sri Lanka</i></h3>
+<h3 align="center"><i>A software engineer from IJSE... 🎯🎯🎯</i></h3>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&random=false&width=1000&lines=Java+%7C+OOP+%7C+Algorithms+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Competitive+Programmer+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%92%AB;Implementing+Innovative+Solutions+%E2%9C%8C%EF%B8%8F)](https://git.io/typing-svg)
+
+
+<a href="http://localhost:63342/MyPortfolio/index.html?_ijt=g8assuqnbj6jceu0sc2ff9eatk&_ij_reload=RELOAD_ON_SAVE" target="_blank">
+<img src="" alt="portfolio">
+</a>
+
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=kavitharangani&label=Profile%20Views&color=0e75b6&style=flat" alt="Views"/>
+</p>
+
 
 
 <h1 align="center">Hi 👋, I'm Kavindya Tharangani</h1>
