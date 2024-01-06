@@ -6,7 +6,7 @@
 
 
 <a href="http://localhost:63342/MyPortfolio/index.html?_ijt=g8assuqnbj6jceu0sc2ff9eatk&_ij_reload=RELOAD_ON_SAVE" target="_blank">
-<img src="portfolio.png" alt="portfolio">
+<img src="portfolio.png" alt="portfolio" href="http://localhost:63342/MyPortfolio/index.html?_ijt=b9jd2b4lss0cj693p1vk5bq6mt&_ij_reload=RELOAD_ON_SAVE">
 </a>
 
 <p align="left">
