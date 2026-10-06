@@ -1,77 +1,177 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&random=false&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Kavindya+Tharangani;IJSE-+Institute+of+Software+Engineering)](https://git.io/typing-svg)
-<h3 align="center"><i>A software engineer from IJSE... 🎯🎯🎯</i></h3>
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&random=false&width=1000&lines=Java+%7C+OOP+%7C+Algorithms+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Competitive+Programmer+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%92%AB;Implementing+Innovative+Solutions+%E2%9C%8C%EF%B8%8F)](https://git.io/typing-svg)
-
-
-<a href="https://kavitharangani.github.io/My-New-PortFolio/" target="_blank">
-  <img src="portfolio.webp" alt="Kavi Portfolio" width="100%">
-</a>
-
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=kavitharangani&label=Profile%20Views&color=green&style=flat" alt="Views"/>
+<!-- ╔══════════════════════ HERO ══════════════════════╗ -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0B0B2B,40:3B0764,75:6D28D9,100:A855F7&height=260&section=header&text=Hi,%20I'm%20Kavi%20%F0%9F%92%9C&fontSize=60&fontColor=F5F3FF&fontAlignY=40&desc=Kavindya%20Tharangani%20%E2%80%A2%20Full-Stack%20Developer&descSize=20&descAlignY=62&descAlign=50&animation=twinkling&stroke=C084FC&strokeWidth=1" alt="banner"/>
 </p>
 
-
-[![committers.top badge](https://user-badge.committers.top/sri_lanka/kavitharangani.svg)](https://user-badge.committers.top/sri_lanka/kavitharangani)
-[![committers.top badge](https://user-badge.committers.top/sri_lanka_public/kavitharangani.svg)](https://user-badge.committers.top/sri_lanka_public/kavitharangani)
-[![committers.top badge](https://user-badge.committers.top/sri_lanka_private/kavitharangani.svg)](https://user-badge.committers.top/sri_lanka_private/kavitharangani)
-
-
-<h1 align="center">Hi 👋, I'm Kavindya Tharangani</h1>
-<h3 align="center">A software engineer from IJSE... 🎯🎯🎯</h3>
-
-
-# 💫 About Me:
-
-
-🔭 I’m currently working on Computer Networking...<br><br>👯
-<img  align ="right" alt="Coding" width="400"  src ="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-I’m looking to collaborate on Software Engineering...<br><br>🤝 I’m looking for help with developing...<br><br>🌱 I’m currently learning Advanced API Development & Computer Networking for Software Engineers...<br><br>⚡ Fun fact - I am Funny Girl...
-
-<br><br>
-
-## 🌐 Socials:
-<p align="left">
-<a href="https://linkedin.com/in/kavindya tharangani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavindya tharangani" height="30" width="40" /></a>
-<a href="https://fb.com/kavindya tharangani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kavindya tharangani" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://kavitharangani.github.io/My-New-PortFolio/">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=C084FC&center=true&vCenter=true&multiline=false&width=700&height=45&lines=%E2%9A%A1+Software+Engineering+Student+%40+IJSE;%F0%9F%92%BC+Intern+Software+Engineer;%F0%9F%9A%80+Java+%7C+Spring+Boot+%7C+Next.js+%7C+NestJS;%F0%9F%8C%B1+Building+things+that+people+love+to+use" alt="typing"/>
+  </a>
 </p>
 
-<br><br>
+<p align="center">
+  <a href="https://kavitharangani.github.io/My-New-PortFolio/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Now-A855F7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1E1B4B" alt="portfolio"/></a>
+  <a href="https://www.linkedin.com/in/kavindya-tharangani-619567266"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E1B4B" alt="linkedin"/></a>
+  <a href="mailto:tharanganikavi08@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E1B4B" alt="gmail"/></a>
+</p>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat&logo=apachespark&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)
+<!-- ╔══════════════════════ PORTFOLIO ══════════════════════╗ -->
+<h2 align="center">🌌 Step Into My Portfolio</h2>
 
-<br><br>
+<p align="center">
+  <a href="https://kavitharangani.github.io/My-New-PortFolio/" target="_blank">
+    <img src="portfolio.webp" width="95%" alt="Kavi Portfolio — click to open"/>
+  </a>
+</p>
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kavitharangani&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kavitharangani&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kavitharangani&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <a href="https://kavitharangani.github.io/My-New-PortFolio/">
+    <img src="https://img.shields.io/badge/%E2%9C%A8%20Click%20here%20to%20open%20my%20live%20portfolio%20%E2%9C%A8-6D28D9?style=for-the-badge" alt="open portfolio"/>
+  </a>
+</p>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:A855F7&height=3" alt="divider"/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kavitharangani&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<!-- ╔══════════════════════ ABOUT ══════════════════════╗ -->
+## 🧑‍💻 `$ who am i`
 
-### ✍ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<table>
+<tr>
+<td width="55%" valign="top">
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kavitharangani&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+```yaml
+name    :  Kavindya Tharangani
+nickname:  Kavi
+work    :  Intern Software Engineer
+focus   :
+          - Full-stack web applications
+          - Clean, user-friendly UI
+learning:
+          - Advanced API Development
+          - Computer Networking
+email   :  tharanganikavi08@gmail.com
+```
 
-## ⭐️ GitHub Stats
+</td>
+<td width="45%" align="center" valign="middle">
+  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="100%" alt="coding"/>
+</td>
+</tr>
+</table>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kavitharangani&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kavitharangani&theme=2077)<br/>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kavitharangani&theme=2077)
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kavitharangani&theme=redical&hide_border=true)](https://github.com/kavitharangani)
-<img src="https://github.com/kavitharangani/kavitharangani/blob/main/Github/break_line.gif" alt="break line">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:A855F7&height=3" alt="divider"/>
 
+<!-- ╔══════════════════════ SKILLS ══════════════════════╗ -->
+## ⚡ Skills & Tools
 
+<table align="center">
+<tr>
+  <td align="center" width="200"><b>💻 Languages</b></td>
+  <td><img src="https://skillicons.dev/icons?i=java,ts,js,python,html,css&theme=dark" alt="languages"/></td>
+</tr>
+<tr>
+  <td align="center"><b>🎨 Frontend</b></td>
+  <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark" alt="frontend"/></td>
+</tr>
+<tr>
+  <td align="center"><b>⚙️ Backend</b></td>
+  <td><img src="https://skillicons.dev/icons?i=spring,nestjs,nodejs,prisma,maven&theme=dark" alt="backend"/></td>
+</tr>
+<tr>
+  <td align="center"><b>🗄️ Database & Cloud</b></td>
+  <td><img src="https://skillicons.dev/icons?i=mysql,postgres,gcp,github&theme=dark" alt="database"/></td>
+</tr>
+<tr>
+  <td align="center"><b>🧰 Tools & Design</b></td>
+  <td><img src="https://skillicons.dev/icons?i=git,vscode,idea,postman,figma,ps&theme=dark" alt="tools"/></td>
+</tr>
+</table>
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:A855F7&height=3" alt="divider"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=kavitharangani&icon=5&color=0)](https://visitcount.itsvg.in)
+<!-- ╔══════════════════════ PROJECTS ══════════════════════╗ -->
+## 🚀 Things I've Built
+
+<table>
+<tr>
+<td width="50%">
+  <a href="https://github.com/kavitharangani/vehicle-parts-shop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kavitharangani&repo=vehicle-parts-shop&bg_color=0D0B1F&title_color=C084FC&text_color=E9D5FF&icon_color=A855F7&border_color=6D28D9" alt="AutoParts POS"/></a>
+  <br/><sub>🚗 <b>AutoParts POS</b> — POS & inventory system with invoicing, stock tracking & reports</sub>
+</td>
+<td width="50%">
+  <a href="https://github.com/kavitharangani/My-New-PortFolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kavitharangani&repo=My-New-PortFolio&bg_color=0D0B1F&title_color=C084FC&text_color=E9D5FF&icon_color=A855F7&border_color=6D28D9" alt="Portfolio"/></a>
+  <br/><sub>🌌 <b>My Portfolio</b> — Next.js portfolio with weather effects & dark/light theme</sub>
+</td>
+</tr>
+<tr>
+<td width="50%">
+  <a href="https://github.com/kavitharangani/Pharmacy_Management_System_Layered_Architecture"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kavitharangani&repo=Pharmacy_Management_System_Layered_Architecture&bg_color=0D0B1F&title_color=C084FC&text_color=E9D5FF&icon_color=A855F7&border_color=6D28D9" alt="Pharmacy"/></a>
+  <br/><sub>💊 <b>Pharmacy Management</b> — Layered architecture app for pharmacy operations</sub>
+</td>
+<td width="50%">
+  <a href="https://github.com/kavitharangani/Small_Chat_Application_Finalize"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kavitharangani&repo=Small_Chat_Application_Finalize&bg_color=0D0B1F&title_color=C084FC&text_color=E9D5FF&icon_color=A855F7&border_color=6D28D9" alt="Chat App"/></a>
+  <br/><sub>💬 <b>Chat Application</b> — Real-time chat using Java socket programming</sub>
+</td>
+</tr>
+</table>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:A855F7&height=3" alt="divider"/>
+
+<!-- ╔══════════════════════ STATS ══════════════════════╗ -->
+## 📈 GitHub Universe
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kavitharangani&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D0B1F&title_color=C084FC&text_color=E9D5FF&icon_color=A855F7&border_color=6D28D9&ring_color=A855F7" alt="stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavitharangani&layout=compact&bg_color=0D0B1F&title_color=C084FC&text_color=E9D5FF&border_color=6D28D9" alt="languages"/>
+</p>
+
+<p align="center">
+  <img width="98%" src="https://streak-stats.demolab.com?user=kavitharangani&background=0D0B1F&border=6D28D9&ring=A855F7&fire=C084FC&currStreakNum=F5F3FF&sideNums=F5F3FF&currStreakLabel=C084FC&sideLabels=C084FC&dates=A78BFA&stroke=6D28D9" alt="streak"/>
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=kavitharangani&bg_color=0D0B1F&color=C084FC&line=A855F7&point=F5F3FF&area=true&area_color=6D28D9&hide_border=false&border_color=6D28D9&title_color=C084FC&custom_title=Kavi's%20Contribution%20Graph" alt="activity graph"/>
+</p>
+
+<!-- ╔══════════════════════ TROPHIES ══════════════════════╗ -->
+## 🏆 Trophy Shelf
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kavitharangani&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="trophies"/>
+</p>
+
+<p align="center">
+  <a href="https://user-badge.committers.top/sri_lanka/kavitharangani"><img src="https://user-badge.committers.top/sri_lanka/kavitharangani.svg" alt="committers.top"/></a>
+  <a href="https://user-badge.committers.top/sri_lanka_public/kavitharangani"><img src="https://user-badge.committers.top/sri_lanka_public/kavitharangani.svg" alt="committers.top public"/></a>
+  <a href="https://user-badge.committers.top/sri_lanka_private/kavitharangani"><img src="https://user-badge.committers.top/sri_lanka_private/kavitharangani.svg" alt="committers.top private"/></a>
+</p>
+
+<!-- ╔══════════════════════ SNAKE ══════════════════════╗ -->
+## 🐍 Watch My Contributions Get Eaten
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kavitharangani/kavitharangani/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kavitharangani/kavitharangani/output/github-snake.svg"/>
+    <img width="98%" alt="contribution snake" src="https://raw.githubusercontent.com/kavitharangani/kavitharangani/output/github-snake-dark.svg"/>
+  </picture>
+</p>
+
+<!-- ╔══════════════════════ FUN ══════════════════════╗ -->
+## 🎲 Daily Dose of Dev
+
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="dev quote"/>
+</td>
+<td width="50%" align="center" valign="middle">
+  <img src="https://randommeme-five.vercel.app/" width="100%" alt="dev meme"/>
+</td>
+</tr>
+</table>
+
+<!-- ╔══════════════════════ FOOTER ══════════════════════╗ -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:6D28D9,100:0B0B2B&height=150&section=footer&text=Let's%20build%20something%20amazing%20together%20%E2%9C%A8&fontSize=24&fontColor=F5F3FF&fontAlignY=72" alt="footer"/>
+</p>
