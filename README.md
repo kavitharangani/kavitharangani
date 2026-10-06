@@ -5,9 +5,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&random=false&width=1000&lines=Java+%7C+OOP+%7C+Algorithms+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Competitive+Programmer+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%92%AB;Implementing+Innovative+Solutions+%E2%9C%8C%EF%B8%8F)](https://git.io/typing-svg)
 
 
-<a href="http://localhost:63342/MyPortfolio/index.html?_ijt=g8assuqnbj6jceu0sc2ff9eatk&_ij_reload=RELOAD_ON_SAVE" target="_blank">
-    <a href="http://localhost:63342/MyPortfolio/index.html?_ijt=b9jd2b4lss0cj693p1vk5bq6mt&_ij_reload=RELOAD_ON_SAVE" target="_blank">
-<img src="portfolio.png" alt="portfolio" href="http://localhost:63342/MyPortfolio/index.html?_ijt=b9jd2b4lss0cj693p1vk5bq6mt&_ij_reload=RELOAD_ON_SAVE"></a>
+<a href="https://kavitharangani.github.io/My-New-PortFolio/" target="_blank">
+  <img src="portfolio.webp" alt="Kavi Portfolio" width="100%">
+</a>
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=kavitharangani&label=Profile%20Views&color=green&style=flat" alt="Views"/>
