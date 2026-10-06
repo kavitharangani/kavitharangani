@@ -9,9 +9,9 @@
     <a href="http://localhost:63342/MyPortfolio/index.html?_ijt=b9jd2b4lss0cj693p1vk5bq6mt&_ij_reload=RELOAD_ON_SAVE" target="_blank">
 <img src="portfolio.png" alt="portfolio" href="http://localhost:63342/MyPortfolio/index.html?_ijt=b9jd2b4lss0cj693p1vk5bq6mt&_ij_reload=RELOAD_ON_SAVE"></a>
 
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=kavitharangani&label=Profile%20Views&color=green&style=flat" alt="Views"/>
-</p>
+<a href="https://kavitharangani.github.io/My-New-PortFolio/" target="_blank">
+  <img src="portfolio.webp" alt="Kavi Portfolio" width="100%">
+</a>
 
 
 [![committers.top badge](https://user-badge.committers.top/sri_lanka/kavitharangani.svg)](https://user-badge.committers.top/sri_lanka/kavitharangani)
