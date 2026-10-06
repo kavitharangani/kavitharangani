@@ -1,137 +1,140 @@
+<!-- ═══════════════ HEADER ═══════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:8B5CF6,100:C084FC&height=220&section=header&text=Kavindya%20Tharangani&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineering%20Student%20%E2%80%A2%20Full-Stack%20Developer&descSize=18&descAlignY=58&animation=fadeIn" alt="header"/>
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Kavindya+Tharangani;Software+Engineering+Student+%40+IJSE;Full-Stack+Web+Developer+%F0%9F%92%BB)](https://kavitharangani.github.io/My-New-PortFolio/)
-
-<a href="https://kavitharangani.github.io/My-New-PortFolio/" target="_blank">
-  <img src="portfolio.webp" alt="Kavi Portfolio — click to visit" width="100%">
+<a href="https://kavitharangani.github.io/My-New-PortFolio/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Hi+there+%F0%9F%91%8B+Welcome+to+my+GitHub!;I+build+full-stack+web+apps+%F0%9F%9A%80;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Next.js+%E2%80%A2+NestJS;Always+learning+something+new+%E2%9C%A8" alt="Typing SVG"/>
 </a>
 
-<sub>👆 Click the image to visit my portfolio</sub>
+<br/>
 
-<br><br>
-
-<a href="https://kavitharangani.github.io/My-New-PortFolio/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://kavitharangani.github.io/My-New-PortFolio/"><img src="https://img.shields.io/badge/🌐_Portfolio-8B5CF6?style=for-the-badge" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/kavindya-tharangani-619567266"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:tharanganikavi08@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<img src="https://komarev.com/ghpvc/?username=kavitharangani&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="Profile views"/>
+<a href="mailto:tharanganikavi08@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<img src="https://komarev.com/ghpvc/?username=kavitharangani&label=VIEWS&color=6D28D9&style=for-the-badge" alt="views"/>
 
 </div>
 
----
+<br/>
 
-## 💫 About Me
+<!-- ═══════════════ PORTFOLIO ═══════════════ -->
+<h2 align="center">✨ My Portfolio ✨</h2>
 
-<img align="right" alt="Coding" width="380" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<div align="center">
+  <a href="https://kavitharangani.github.io/My-New-PortFolio/" target="_blank">
+    <img src="portfolio.webp" alt="Kavi Portfolio" width="92%"/>
+  </a>
+  <br/>
+  <a href="https://kavitharangani.github.io/My-New-PortFolio/"><b>🔗 Click to explore my portfolio →</b></a>
+</div>
 
-I'm a **Software Engineering student at IJSE** and an **intern software engineer** who loves building practical, user-friendly web applications.
+<br/>
 
-- 🔭 Currently building full-stack apps with **Next.js, NestJS & Spring Boot**
-- 🌱 Learning **Advanced API Development** & **Computer Networking**
-- 👯 Looking to collaborate on **Software Engineering** projects
-- 💬 Ask me about **Java, React, TypeScript**
-- 📫 Reach me at **tharanganikavi08@gmail.com**
-- ⚡ Fun fact: I'm a Funny Girl 😄
+<!-- ═══════════════ ABOUT ═══════════════ -->
+## 👩‍💻 About Me
 
-<br clear="right"/>
+<table>
+<tr>
+<td width="58%" valign="top">
 
----
+```java
+public class Kavindya {
 
-## 💻 Tech Stack
+    String name     = "Kavindya Tharangani";
+    String role     = "Software Engineering Student @ IJSE";
+    String position = "Intern Software Engineer";
 
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-</p>
+    String[] building = { "Full-stack web apps", "POS & inventory systems" };
+    String[] learning = { "Advanced API Development",
+                          "Computer Networking" };
+    String[] askMeAbout = { "Java", "React", "TypeScript" };
 
-**Frameworks & Libraries**
-<p>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-</p>
+    String funFact  = "I'm a Funny Girl 😄";
+    String contact  = "tharanganikavi08@gmail.com";
+}
+```
 
-**Databases & Cloud**
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Pages-121013?style=flat-square&logo=github&logoColor=white"/>
-</p>
+</td>
+<td width="42%" align="center">
+  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="100%" alt="coding"/>
+</td>
+</tr>
+</table>
 
-**Tools & Design**
-<p>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-</p>
+<!-- ═══════════════ TECH STACK ═══════════════ -->
+## 🛠️ Tech Stack
 
----
+<div align="center">
 
+**💻 Languages**
+
+<img src="https://skillicons.dev/icons?i=java,ts,js,python,html,css&perline=6" alt="languages"/>
+
+**⚙️ Frameworks & Libraries**
+
+<img src="https://skillicons.dev/icons?i=spring,react,nextjs,nestjs,nodejs,tailwind,bootstrap,prisma&perline=8" alt="frameworks"/>
+
+**🗄️ Databases & Cloud**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,gcp,github&perline=6" alt="databases"/>
+
+**🧰 Tools & Design**
+
+<img src="https://skillicons.dev/icons?i=git,postman,maven,idea,vscode,figma,ps&perline=8" alt="tools"/>
+
+</div>
+
+<!-- ═══════════════ PROJECTS ═══════════════ -->
 ## 🚀 Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| [🚗 AutoParts POS](https://github.com/kavitharangani/vehicle-parts-shop) | Full-stack POS & inventory system for a vehicle spare parts shop — invoicing, stock tracking, returns and reports | Next.js · Prisma · PostgreSQL |
-| [💊 Pharmacy Management System](https://github.com/kavitharangani/Pharmacy_Management_System_Layered_Architecture.) | Pharmacy operations app built on a layered architecture | Java · MySQL |
-| [💬 Small Chat Application](https://github.com/kavitharangani/Small_Chat_Application_Finalize) | Real-time chat app using socket programming | Java · Networking |
-| [🎨 MyPortfolio Web Design](https://github.com/kavitharangani/MyPortfolio_Web_Design) | Responsive personal portfolio design | HTML · CSS · JS |
+<div align="center">
+  <a href="https://github.com/kavitharangani/vehicle-parts-shop"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=kavitharangani&repo=vehicle-parts-shop&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=C084FC" alt="AutoParts POS"/></a>
+  <a href="https://github.com/kavitharangani/My-New-PortFolio"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=kavitharangani&repo=My-New-PortFolio&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=C084FC" alt="Portfolio"/></a>
+  <a href="https://github.com/kavitharangani/Pharmacy_Management_System_Layered_Architecture"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=kavitharangani&repo=Pharmacy_Management_System_Layered_Architecture&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=C084FC" alt="Pharmacy Management System"/></a>
+  <a href="https://github.com/kavitharangani/Small_Chat_Application_Finalize"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=kavitharangani&repo=Small_Chat_Application_Finalize&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=C084FC" alt="Chat Application"/></a>
+</div>
 
----
-
-## 📊 GitHub Stats
+<!-- ═══════════════ STATS ═══════════════ -->
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kavitharangani&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavitharangani&theme=tokyonight&hide_border=true&layout=compact" alt="Top languages"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=kavitharangani&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kavitharangani&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&title_color=A78BFA&icon_color=C084FC" alt="stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavitharangani&theme=tokyonight&hide_border=true&layout=compact&title_color=A78BFA" alt="top langs"/>
+  <img width="98%" src="https://streak-stats.demolab.com?user=kavitharangani&theme=tokyonight&hide_border=true&ring=8B5CF6&fire=C084FC&currStreakLabel=A78BFA" alt="streak"/>
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=kavitharangani&bg_color=1a1b27&color=A78BFA&line=8B5CF6&point=C084FC&area=true&area_color=6D28D9&hide_border=true" alt="activity graph"/>
+</div>
+
+<!-- ═══════════════ TROPHIES ═══════════════ -->
+## 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kavitharangani&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="trophies"/>
   <br/><br/>
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kavitharangani&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph"/>
+  <a href="https://user-badge.committers.top/sri_lanka/kavitharangani"><img src="https://user-badge.committers.top/sri_lanka/kavitharangani.svg" alt="committers.top"/></a>
+  <a href="https://user-badge.committers.top/sri_lanka_public/kavitharangani"><img src="https://user-badge.committers.top/sri_lanka_public/kavitharangani.svg" alt="committers.top public"/></a>
+  <a href="https://user-badge.committers.top/sri_lanka_private/kavitharangani"><img src="https://user-badge.committers.top/sri_lanka_private/kavitharangani.svg" alt="committers.top private"/></a>
 </div>
 
-## 🏆 GitHub Trophies
+<!-- ═══════════════ SNAKE ═══════════════ -->
+## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kavitharangani&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" alt="Trophies"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kavitharangani/kavitharangani/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kavitharangani/kavitharangani/output/github-snake.svg"/>
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/kavitharangani/kavitharangani/output/github-snake-dark.svg"/>
+  </picture>
 </div>
+
+<!-- ═══════════════ FUN ═══════════════ -->
+## 😄 Just for Fun
 
 <div align="center">
-
-[![committers.top badge](https://user-badge.committers.top/sri_lanka/kavitharangani.svg)](https://user-badge.committers.top/sri_lanka/kavitharangani)
-[![committers.top badge](https://user-badge.committers.top/sri_lanka_public/kavitharangani.svg)](https://user-badge.committers.top/sri_lanka_public/kavitharangani)
-[![committers.top badge](https://user-badge.committers.top/sri_lanka_private/kavitharangani.svg)](https://user-badge.committers.top/sri_lanka_private/kavitharangani)
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote"/>
+  <br/><br/>
+  <img src="https://randommeme-five.vercel.app/" height="320" alt="dev meme"/>
 </div>
 
----
-
-### ✍️ Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote"/>
-</div>
-
-### 😂 Random Dev Meme
-
-<div align="center">
-  <img src="https://randommeme-five.vercel.app/" height="350" alt="Dev meme"/>
-</div>
-
----
-
-<div align="center">
-  <sub>Thanks for visiting! ⭐ Made with 💜 by Kavindya Tharangani</sub>
-</div>
+<!-- ═══════════════ FOOTER ═══════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C084FC,50:8B5CF6,100:4F46E5&height=120&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%92%9C&fontSize=22&fontColor=ffffff&fontAlignY=70" alt="footer"/>
