@@ -1,77 +1,137 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&random=false&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Kavindya+Tharangani;IJSE-+Institute+of+Software+Engineering)](https://git.io/typing-svg)
-<h3 align="center"><i>A software engineer from IJSE... 🎯🎯🎯</i></h3>
+<div align="center">
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&random=false&width=1000&lines=Java+%7C+OOP+%7C+Algorithms+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Competitive+Programmer+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%92%AB;Implementing+Innovative+Solutions+%E2%9C%8C%EF%B8%8F)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Kavindya+Tharangani;Software+Engineering+Student+%40+IJSE;Full-Stack+Web+Developer+%F0%9F%92%BB)](https://kavitharangani.github.io/My-New-PortFolio/)
 
 <a href="https://kavitharangani.github.io/My-New-PortFolio/" target="_blank">
-  <img src="portfolio.webp" alt="Kavi Portfolio" width="100%">
+  <img src="portfolio.webp" alt="Kavi Portfolio — click to visit" width="100%">
 </a>
 
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=kavitharangani&label=Profile%20Views&color=green&style=flat" alt="Views"/>
+<sub>👆 Click the image to visit my portfolio</sub>
+
+<br><br>
+
+<a href="https://kavitharangani.github.io/My-New-PortFolio/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/kavindya-tharangani-619567266"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:tharanganikavi08@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<img src="https://komarev.com/ghpvc/?username=kavitharangani&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="Profile views"/>
+
+</div>
+
+---
+
+## 💫 About Me
+
+<img align="right" alt="Coding" width="380" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
+I'm a **Software Engineering student at IJSE** and an **intern software engineer** who loves building practical, user-friendly web applications.
+
+- 🔭 Currently building full-stack apps with **Next.js, NestJS & Spring Boot**
+- 🌱 Learning **Advanced API Development** & **Computer Networking**
+- 👯 Looking to collaborate on **Software Engineering** projects
+- 💬 Ask me about **Java, React, TypeScript**
+- 📫 Reach me at **tharanganikavi08@gmail.com**
+- ⚡ Fun fact: I'm a Funny Girl 😄
+
+<br clear="right"/>
+
+---
+
+## 💻 Tech Stack
+
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 </p>
 
+**Frameworks & Libraries**
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+</p>
+
+**Databases & Cloud**
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Pages-121013?style=flat-square&logo=github&logoColor=white"/>
+</p>
+
+**Tools & Design**
+<p>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [🚗 AutoParts POS](https://github.com/kavitharangani/vehicle-parts-shop) | Full-stack POS & inventory system for a vehicle spare parts shop — invoicing, stock tracking, returns and reports | Next.js · Prisma · PostgreSQL |
+| [💊 Pharmacy Management System](https://github.com/kavitharangani/Pharmacy_Management_System_Layered_Architecture.) | Pharmacy operations app built on a layered architecture | Java · MySQL |
+| [💬 Small Chat Application](https://github.com/kavitharangani/Small_Chat_Application_Finalize) | Real-time chat app using socket programming | Java · Networking |
+| [🎨 MyPortfolio Web Design](https://github.com/kavitharangani/MyPortfolio_Web_Design) | Responsive personal portfolio design | HTML · CSS · JS |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kavitharangani&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavitharangani&theme=tokyonight&hide_border=true&layout=compact" alt="Top languages"/>
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=kavitharangani&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+  <br/><br/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kavitharangani&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph"/>
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kavitharangani&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" alt="Trophies"/>
+</div>
+
+<div align="center">
 
 [![committers.top badge](https://user-badge.committers.top/sri_lanka/kavitharangani.svg)](https://user-badge.committers.top/sri_lanka/kavitharangani)
 [![committers.top badge](https://user-badge.committers.top/sri_lanka_public/kavitharangani.svg)](https://user-badge.committers.top/sri_lanka_public/kavitharangani)
 [![committers.top badge](https://user-badge.committers.top/sri_lanka_private/kavitharangani.svg)](https://user-badge.committers.top/sri_lanka_private/kavitharangani)
 
-
-<h1 align="center">Hi 👋, I'm Kavindya Tharangani</h1>
-<h3 align="center">A software engineer from IJSE... 🎯🎯🎯</h3>
-
-
-# 💫 About Me:
-
-
-🔭 I’m currently working on Computer Networking...<br><br>👯
-<img  align ="right" alt="Coding" width="400"  src ="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-I’m looking to collaborate on Software Engineering...<br><br>🤝 I’m looking for help with developing...<br><br>🌱 I’m currently learning Advanced API Development & Computer Networking for Software Engineers...<br><br>⚡ Fun fact - I am Funny Girl...
-
-<br><br>
-
-## 🌐 Socials:
-<p align="left">
-<a href="https://linkedin.com/in/kavindya tharangani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavindya tharangani" height="30" width="40" /></a>
-<a href="https://fb.com/kavindya tharangani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kavindya tharangani" height="30" width="40" /></a>
-</p>
-
-<br><br>
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat&logo=apachespark&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)
-
-<br><br>
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kavitharangani&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kavitharangani&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kavitharangani&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kavitharangani&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kavitharangani&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-## ⭐️ GitHub Stats
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kavitharangani&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kavitharangani&theme=2077)<br/>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kavitharangani&theme=2077)
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kavitharangani&theme=redical&hide_border=true)](https://github.com/kavitharangani)
-<img src="https://github.com/kavitharangani/kavitharangani/blob/main/Github/break_line.gif" alt="break line">
-
-
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kavitharangani&icon=5&color=0)](https://visitcount.itsvg.in)
+
+### ✍️ Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote"/>
+</div>
+
+### 😂 Random Dev Meme
+
+<div align="center">
+  <img src="https://randommeme-five.vercel.app/" height="350" alt="Dev meme"/>
+</div>
+
+---
+
+<div align="center">
+  <sub>Thanks for visiting! ⭐ Made with 💜 by Kavindya Tharangani</sub>
+</div>
