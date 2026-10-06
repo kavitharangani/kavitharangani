@@ -9,9 +9,9 @@
   <img src="portfolio.webp" alt="Kavi Portfolio" width="100%">
 </a>
 
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=kavitharangani&label=Profile%20Views&color=green&style=flat" alt="Views"/>
-</p>
+<a href="https://kavitharangani.github.io/My-New-PortFolio/" target="_blank">
+  <img src="portfolio.webp" alt="Kavi Portfolio" width="100%">
+</a>
 
 
 [![committers.top badge](https://user-badge.committers.top/sri_lanka/kavitharangani.svg)](https://user-badge.committers.top/sri_lanka/kavitharangani)
